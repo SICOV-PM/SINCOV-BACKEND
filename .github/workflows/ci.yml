@@ -43,6 +43,6 @@ jobs:
           pip install pytest
 
       - name: Run tests
-              run: |
-                export PYTHONPATH=$PWD
-                pytest -v
+        run: |
+          export PYTHONPATH=$PWD
+          pytest -v
