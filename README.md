@@ -11,7 +11,7 @@ Estable para desarrollo local. Revisa la licencia en `LICENSE`.
 ---
 
 ## 🗂️ Estructura del proyecto
-
+```bash
 SINCOV-BACKEND/
 ├── app/
 │   ├── api/
@@ -33,6 +33,7 @@ SINCOV-BACKEND/
 ├── README.md
 ├── requirements-freeze.txt
 └── requirements.txt
+```
 
 ## ⚙️ Servicios Disponibles
 
